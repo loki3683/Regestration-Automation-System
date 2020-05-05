@@ -1,0 +1,11 @@
+Sec No dms oops dsd skills P and S CCS  SE 
+    1  Subbarao Gouse  Sajana Dheka  mahidar RamKulesh  Satishbabu
+    2  Rani  Raja  Swatha Swanthana Sreya Kavya Roopa
+    3  Manasa  Sabharish OP  Sameer  Nikhil Bhanu Bhavya
+    4  Meghana  Devi Smriti Ubedulla Boby Niharika Mohan
+    5  Sam Karan Rohith Smiriti  Mithali  aunuja Patel
+    6  Subbarao Gouse  Sajana  Dheka  mahidar  RamKulesh Satishbabu
+    7  Rani Raja Swatha Swanthana Sreya  Kavya  Roopa
+    8  Manasa Sabharish OP  Sameer Nikhil  Bhanu  Bhavya
+    9  Meghana Devi Smriti  Ubedulla Boby  Niharika  Mohan
+  10  Sam Karan  Rohith   Smiriti Mithali  aunuja Patel
